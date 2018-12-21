@@ -1,0 +1,1 @@
+module.exports = {Blogs: require('./blogs.js'), Comments: require('./comments.js')};
